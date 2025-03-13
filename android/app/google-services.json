@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "901291629297",
+    "project_id": "mediconnect-3f7f5",
+    "storage_bucket": "mediconnect-3f7f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901291629297:android:46d8b2c0ea78f7d097a750",
+        "android_client_info": {
+          "package_name": "Mediconnect.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901291629297-61scqs0v2dkphn4v9iabsgbsr06q8hsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoAN3qvuXrO2wOT24zoTP23LGax0DcBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901291629297-61scqs0v2dkphn4v9iabsgbsr06q8hsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901291629297-qmkj410dqefh48id2uj9lt2pp3l8kjs8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Mediconnect.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901291629297:android:ffc45b8e43d9c59697a750",
+        "android_client_info": {
+          "package_name": "com.example.medi_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901291629297-61scqs0v2dkphn4v9iabsgbsr06q8hsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoAN3qvuXrO2wOT24zoTP23LGax0DcBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901291629297-61scqs0v2dkphn4v9iabsgbsr06q8hsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901291629297-qmkj410dqefh48id2uj9lt2pp3l8kjs8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Mediconnect.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

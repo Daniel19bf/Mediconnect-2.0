@@ -1,0 +1,2 @@
+C:/Users/DANIEL/Documents/Proyectos/Pag Quantum/medi_connect/android/app/.cxx/Debug/683q683v/x86/CMakeFiles/edit_cache.dir
+C:/Users/DANIEL/Documents/Proyectos/Pag Quantum/medi_connect/android/app/.cxx/Debug/683q683v/x86/CMakeFiles/rebuild_cache.dir

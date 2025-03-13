@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">901291629297-61scqs0v2dkphn4v9iabsgbsr06q8hsg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">901291629297</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKoAN3qvuXrO2wOT24zoTP23LGax0DcBQ</string>
+    <string name="google_app_id" translatable="false">1:901291629297:android:ffc45b8e43d9c59697a750</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKoAN3qvuXrO2wOT24zoTP23LGax0DcBQ</string>
+    <string name="google_storage_bucket" translatable="false">mediconnect-3f7f5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">mediconnect-3f7f5</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

@@ -1,0 +1,1 @@
+ C:\\Users\\DANIEL\\Documents\\Proyectos\\Pag\ Quantum\\medi_connect\\.dart_tool\\flutter_build\\23484af38e879c922723495889f4e5a2\\native_assets.json: 

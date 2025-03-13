@@ -1,0 +1,2 @@
+C:/Users/DANIEL/Documents/Proyectos/medi_connect/android/app/.cxx/Debug/l3qv574k/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/DANIEL/Documents/Proyectos/medi_connect/android/app/.cxx/Debug/l3qv574k/x86_64/CMakeFiles/rebuild_cache.dir
